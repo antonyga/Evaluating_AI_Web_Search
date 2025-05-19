@@ -8,10 +8,14 @@
 This repository contains a study comparing the web search capabilities of four AI assistants:  
 **Gemini 2.0 Flash, ChatGPT-4 Turbo, DeepSeekR1, and Grok 3**. The research evaluates response speed, source credibility, citation practices, and ranking algorithm transparency.  
 
-**Key Questions Explored**:  
-- Which model balances speed and accuracy best?  
+**Key Questions Explored**: 
+- Who is the fastest giving an answer? 
+- Which model balances speed and accuracy best?
+- What factors influence ranking of web search results?
+- How do these systems navigate Internet?   
 - How do AI assistants prioritize search results?  
-- Do they cite reliable sources—or lean on social media?  
+- Do they cite reliable sources—or lean on social media? 
+- More... 
 
 ---
 
@@ -67,11 +71,17 @@ This repository contains a study comparing the web search capabilities of four A
 - ⚠️ **Social Media Reliance**: Grok 3 cited Twitter 7x more than other models.  
 - 🔍 **Algorithm Diversity**: Models using the same engine (Bing) ranked results differently.  
 
-[Full findings here](/docs/Evaluating AI_Web_Search_Performance.pdf)  
+[Full findings here](/docs/Evaluating Web Search Performance Across Top AI Assistants.pdf)  
 
 ---
 
 ## 📂 Repository Structure
+
+├── data/ # Raw response data (Excel)
+├── docs/ # Final report (DOCX) and visuals
+├── src/ # Python timer script
+├── LICENSE # MIT License
+└── README.md # This overview
 ---
 
 ## 🛠 How to Use This Repository
