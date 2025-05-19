@@ -67,7 +67,7 @@ This repository contains a study comparing the web search capabilities of four A
 - ⚠️ **Social Media Reliance**: Grok 3 cited Twitter 7x more than other models.  
 - 🔍 **Algorithm Diversity**: Models using the same engine (Bing) ranked results differently.  
 
-[Full findings here](/docs/Evaluating_Web_Search_Performance.docx)  
+[Full findings here](/docs/Evaluating AI_Web_Search_Performance.pdf)  
 
 ---
 
@@ -107,5 +107,5 @@ MIT License. See [LICENSE](/LICENSE) for details.
 
 ## 📬 Contact
 For questions or collaborations:  
-- Email: [your-email@domain.com](mailto:your-email@domain.com)  
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)  
+- Email: [antony.garcia@qawarelabs.com](mailto:antony.garcia@qawarelabs.com)  
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/antony-garc%C3%ADa-6a2176a0/)  
