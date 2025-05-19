@@ -20,15 +20,23 @@ This repository contains a study comparing the web search capabilities of four A
 ---
 
 ## 📋 Table of Contents
-- [Models Tested](#-models-tested)
-- [Methodology](#-methodology)
-- [Key Findings](#-key-findings)
-- [Repository Structure](#-repository-structure)
-- [How to Use This Repository](#-how-to-use-this-repository)
-- [Limitations](#-limitations)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
+- [🔍 Evaluating Web Search Performance Across Top AI Assistants](#-evaluating-web-search-performance-across-top-ai-assistants)
+  - [📌 Overview](#-overview)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [🤖 Models Tested](#-models-tested)
+  - [🧪 Methodology](#-methodology)
+    - [**Query Categories**](#query-categories)
+    - [**Testing Process**](#testing-process)
+  - [🚀 Key Findings](#-key-findings)
+    - [**Performance Metrics**](#performance-metrics)
+    - [**Insights**](#insights)
+  - [📂 Repository Structure](#-repository-structure)
+  - [└── README.md # This overview](#-readmemd--this-overview)
+  - [🛠 How to Use This Repository](#-how-to-use-this-repository)
+  - [⚠️ Limitations](#️-limitations)
+  - [🤝 Contributing](#-contributing)
+  - [📜 License](#-license)
+  - [📬 Contact](#-contact)
 
 ---
 
@@ -86,8 +94,8 @@ This repository contains a study comparing the web search capabilities of four A
 
 ## 🛠 How to Use This Repository
 1. **Replicate the Study**:  
-   - Run the [timer script](/src/search_timer.py) to measure AI response times.  
-   - Review the [raw data](/data/responses.xlsx) for citations and response details.  
+   - Run the [timer script](/src/simpleTimer.py) to measure AI response times.  
+   - Review the [raw data](/data/Search_Results.xlsx) for citations and response details.  
 2. **Extend the Research**:  
    - Add new queries to test additional categories (e.g., non-English prompts).  
    - Improve the timer with automated APIs (e.g., Selenium).  
