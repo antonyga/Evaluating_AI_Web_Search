@@ -2,7 +2,7 @@
 
 *A comparative analysis of how leading AI models retrieve, process, and present web-sourced information.*  
 
-![AI Assistants](media/image1.png) <!-- Include a relevant banner/image -->
+![AI Assistants](media/timingWebSearchResponses.png) <!-- Include a relevant banner/image -->
 
 ## 📌 Overview
 This repository contains a study comparing the web search capabilities of four AI assistants:  
