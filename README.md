@@ -126,4 +126,4 @@ MIT License. See [LICENSE](/LICENSE) for details.
 ## 📬 Contact
 For questions or collaborations:  
 - Email: [antony.garcia@qawarelabs.com](mailto:antony.garcia@qawarelabs.com)  
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/antony-garc%C3%ADa-6a2176a0/)  
+- LinkedIn: [Antony Garcia](https://www.linkedin.com/in/antony-garc%C3%ADa-6a2176a0/)  
